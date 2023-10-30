@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'GothamNarrowBook';
+    src: url('fonts/GothamNarrowBook.eot');
+    src: url('fonts/GothamNarrowBook.eot') format('embedded-opentype'),
+         url('fonts/GothamNarrowBook.woff2') format('woff2'),
+         url('fonts/GothamNarrowBook.woff') format('woff'),
+         url('fonts/GothamNarrowBook.ttf') format('truetype'),
+         url('fonts/GothamNarrowBook.svg#GothamNarrowBook') format('svg');
+}
+@font-face {
+    font-family: 'GothamNarrowMedium';
+    src: url('fonts/GothamNarrowMedium.eot');
+    src: url('fonts/GothamNarrowMedium.eot') format('embedded-opentype'),
+         url('fonts/GothamNarrowMedium.woff2') format('woff2'),
+         url('fonts/GothamNarrowMedium.woff') format('woff'),
+         url('fonts/GothamNarrowMedium.ttf') format('truetype'),
+         url('fonts/GothamNarrowMedium.svg#GothamNarrowMedium') format('svg');
+}

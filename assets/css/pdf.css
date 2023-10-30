@@ -1,0 +1,126 @@
+.mbot-0 {
+	margin-bottom: 0px;
+}
+
+.mbot-10 {
+	margin-bottom: 10px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.text-right {
+	text-align: right;
+}
+
+.text-justify {
+	text-align: justify;
+	margin: auto;
+}
+
+.font-biru {
+	color: blue;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+.full-width {
+	width: 100%;
+}
+
+.table-transport thead tr td {
+	background-color: grey;
+	padding: 5px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.table-transport tbody tr td {
+	border-top: 0;
+	border-bottom: 0;
+	padding: 5px 10px;
+}
+
+.table-transport tbody tr.pertama td {
+	padding-top : 40px;
+}
+
+.table-transport tbody tr.terakhir td {
+	padding-bottom : 40px;
+}
+
+.table-transport tfoot tr td {
+	padding: 5px 10px;
+}
+
+.bolder {
+	font-weight: bold;
+}
+
+.no-border-left {
+	border-left: 0;
+}
+
+.no-border-right {
+	border-right: 0;
+}
+
+.no-border-bottom {
+	border-bottom: 0;
+}
+
+.no-border-top {
+	border-top: 0;
+}
+
+.border-bottom-only {
+	border-top : 0;
+	border-left : 0;
+	border-right: 0;
+}
+
+.border-top-only {
+	border-bottom : 0;
+	border-left : 0;
+	border-right: 0;
+}
+
+.border-right-only {
+	border-bottom : 0;
+	border-left : 0;
+	border-top: 0;
+}
+
+.border-left-only {
+	border-bottom : 0;
+	border-top : 0;
+	border-right: 0;
+}
+
+.no-border {
+	border: 0;
+}
+
+.table-ttd {
+	padding-left: 120px;
+	padding-right: 120px;
+}
+
+.padl-50 {
+	padding-left : 50px;
+}
+
+.font-9 {
+	font-size: 9px;
+}
+
+.font-10 {
+	font-size: 10px;
+}
+
+.font-11 {
+	font-size: 11px;
+}

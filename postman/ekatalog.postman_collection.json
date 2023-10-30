@@ -1,0 +1,79 @@
+{
+	"info": {
+		"_postman_id": "e993a014-0a94-49f7-940d-ae063d3d5e3b",
+		"name": "ekatalog",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "No Surat",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "perihal",
+							"value": "tes perihal arief",
+							"type": "text"
+						},
+						{
+							"key": "nama_user",
+							"value": "latief",
+							"type": "text"
+						},
+						{
+							"key": "penandatangan",
+							"value": "General Manager",
+							"type": "text"
+						},
+						{
+							"key": "nip",
+							"value": "ET00001",
+							"type": "text"
+						},
+						{
+							"key": "unit_kerja",
+							"value": "A.HC",
+							"type": "text"
+						},
+						{
+							"key": "tujuan",
+							"value": "Vendor",
+							"type": "text"
+						},
+						{
+							"key": "tanggal",
+							"value": "2019-04-09",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://developer.wika.co.id/SIAS/apirest/index.php/alat?perihal=tes arief",
+					"protocol": "http",
+					"host": [
+						"developer",
+						"wika",
+						"co",
+						"id"
+					],
+					"path": [
+						"SIAS",
+						"apirest",
+						"index.php",
+						"alat"
+					],
+					"query": [
+						{
+							"key": "perihal",
+							"value": "tes arief"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

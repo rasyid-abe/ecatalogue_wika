@@ -1,0 +1,19 @@
+.small-box h3{
+	font-size: 2rem !important;
+	margin-top: 10px;
+}
+.small-box p{
+	font-size: 1.2rem !important;
+	margin: 0;
+}
+.small-box .icon{
+	font-size: 70px !important;
+	top:0px !important;
+}
+.small-box{
+	min-height: 100px;
+}
+.nav-tabs-custom > .nav-tabs > li.header{
+	font-size: 1.3rem;
+	font-weight: bold;
+}
